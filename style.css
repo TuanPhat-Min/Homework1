@@ -3,6 +3,9 @@
     padding: 0; 
     box-sizing: border-box;
 }
+body{
+    width: 1440px;
+}
 .container{
     width: 1440px;
 }
@@ -419,6 +422,9 @@ font-size: 25px;
 }
 /* Responsive */
 @media (max-width: 428px){
+body{
+        width: 428px;
+}
 .container{
     width: 428px;
 }
