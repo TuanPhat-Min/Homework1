@@ -3,6 +3,9 @@
     padding: 0; 
     box-sizing: border-box;
 }
+html{
+    width: 1440px;
+}
 body{
     width: 1440px;
 }
@@ -422,6 +425,9 @@ font-size: 25px;
 }
 /* Responsive */
 @media (max-width: 428px){
+html{
+        width: 428px;
+}
 body{
         width: 428px;
 }
